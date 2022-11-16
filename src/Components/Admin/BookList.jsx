@@ -3,7 +3,6 @@ import { useLocation } from "react-router-dom";
 import "../../Assets/CSS/bookList.css";
 import "../../Assets/CSS/loader.css";
 function BookList(props) {
-  let upBook = "";
   const [bookData, setBookData] = useState([]);
   const [deleted, setdeleted] = useState(true);
   const [loading, updateLoading] = useState(true);
