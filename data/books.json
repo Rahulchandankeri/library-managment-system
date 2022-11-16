@@ -1,0 +1,102 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "title": "War and Peace",
+      "author": "Tolstoy, Leo",
+      "year_written": 1865,
+      "edition": "Penguin",
+      "price": 12.7
+    },
+    {
+      "id": 3,
+      "title": "Anna Karenina",
+      "author": "Tolstoy, Leo",
+      "year_written": 1875,
+      "edition": "Penguin",
+      "price": 13.5
+    },
+    {
+      "id": 4,
+      "title": "Mrs. Dalloway",
+      "author": "Woolf, Virginia",
+      "year_written": 1925,
+      "edition": "Harcourt Brace",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "title": "The Hours",
+      "author": "Cunnningham, Michael",
+      "year_written": 1999,
+      "edition": "Harcourt Brace",
+      "price": 12.35
+    },
+    {
+      "id": 6,
+      "title": "Huckleberry Finn",
+      "author": "Twain, Mark",
+      "year_written": 1865,
+      "edition": "Penguin",
+      "price": 5.76
+    },
+    {
+      "id": 9,
+      "title": "A Room of One's Own",
+      "author": "Woolf, Virginia",
+      "year_written": 1922,
+      "edition": "Penguin",
+      "price": 29
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "test",
+      "email": "test@gmail.com",
+      "contact": 987464864
+    },
+    {
+      "name": "Rony",
+      "email": "rony@gmail.com",
+      "contact": "987654321",
+      "id": 2
+    },
+    {
+      "name": "Rahul C",
+      "email": "rahul@gmail.com",
+      "contact": "987654321",
+      "id": 3
+    },
+    {
+      "name": "Robert",
+      "email": "robert@gmail.com",
+      "contact": "224311577",
+      "id": 4
+    },
+    {
+      "name": "Rocky",
+      "email": "rocky@gmail.com",
+      "contact": "384268432",
+      "id": 6
+    },
+    {
+      "name": "Ramesh",
+      "email": "ramesh@gmail.com",
+      "contact": "34686434334",
+      "id": 7
+    },
+    {
+      "name": "suresh",
+      "email": "suresh@gmail.com",
+      "contact": "6483334323",
+      "id": 8
+    },
+    {
+      "name": "subhash",
+      "email": "s@gmail.com",
+      "contact": "1234",
+      "id": 9
+    }
+  ]
+}
